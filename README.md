@@ -1,2 +1,2 @@
-# Groupe-Sibuet
+# Groupe-Sibuet - SPA
 
